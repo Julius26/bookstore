@@ -31,7 +31,7 @@ gem 'bootstrap-sass', '~> 3.4'
 gem 'truncate_html', '~> 0.9.3'
 gem 'will_paginate', '~> 3.1', '>= 3.1.6'
 gem 'will_paginate-bootstrap', '~> 1.0', '>= 1.0.1'
-gem 'devise', '~> 4.5'
+gem 'devise', '~> 4.6'
 gem 'graphql', '~> 1.9', '>= 1.9.2'
 
 # Use ActiveStorage variant
